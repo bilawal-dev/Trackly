@@ -55,11 +55,6 @@ const Features = () => {
               Optimize sales processes with actionable data
             </li>
           </ul>
-
-          <Link href={'/about'} className="group inline-flex items-center gap-x-2 pt-[24px] font-medium text-[#0085FF] lg:text-[18px]">
-            Learn More{" "}
-            <Image src={bluebutton} alt="Learn more" className="group-hover:-rotate-[30deg] duration-200" />
-          </Link>
         </div>
       </div>
 
@@ -105,11 +100,6 @@ const Features = () => {
               Provide personalized, data-driven support
             </li>
           </ul>
-
-          <Link href={'/about'} className="group inline-flex items-center gap-x-2 pt-[24px] font-medium text-[#00A424] lg:text-[18px]">
-            Learn More{" "}
-            <Image src={greenButton} alt="Learn more" className="group-hover:-rotate-[30deg] duration-200" />
-          </Link>
         </div>
       </div>
 
@@ -149,11 +139,6 @@ const Features = () => {
               </p>
             </div>
           </div>
-
-          <Link href={'/about'} className="group inline-flex items-center gap-x-2 pt-[24px] font-medium text-[#EB2891] lg:text-[18px]">
-            Learn More{" "}
-            <Image src={pinkButton} alt="Learn more" className="group-hover:-rotate-[30deg] duration-200" />
-          </Link>
         </div>
 
       </div>

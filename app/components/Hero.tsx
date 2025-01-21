@@ -4,7 +4,6 @@ import Gradient from "../../public/assets/Gradient.svg";
 import HeroImage from "../../public/assets/Image.svg";
 import Google from "../../public/assets/Google.svg";
 import Slack from "../../public/assets/Slack.svg";
-import Truspilot from "../../public/assets/Trustpilot.svg";
 import Link from "next/link";
 
 const Hero = () => {
@@ -51,10 +50,9 @@ const Hero = () => {
             <p className="text-[#FFFFFF] text-center lg:text-[18px]">
               Easily Integrate with Major Platforms
             </p>
-            <div className="grid grid-cols-3 items-center justify-center justify-items-center px-[20px] align-middle  lg:grid-cols-3">
+            <div className="grid grid-cols-2 items-center justify-center justify-items-center px-[20px] align-middle lg:grid-cols-2">
               <Image src={Google} alt="" />
               <Image src={Slack} alt="" />
-              <Image src={Truspilot} alt="" />
             </div>
           </div>
         </div>
