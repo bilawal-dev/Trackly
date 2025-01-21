@@ -3,12 +3,6 @@ import Feature1 from "../../public/assets/feature-1.svg";
 import Feature2 from "../../public/assets/feature-2.svg";
 import Feature3 from "../../public/assets/feature-3.svg";
 import Check from "../../public/assets/check.svg";
-import bluebutton from "../../public/assets/blue-button.svg";
-import greenButton from "../../public/assets/green-button.svg";
-import pinkButton from "../../public/assets/pink-button.svg";
-import Link from "next/link";
-
-
 
 const Features = () => {
   return (
