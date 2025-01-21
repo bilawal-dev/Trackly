@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Trackly - Smart Business Analytics",
   description: "Trackly - Smart Business Analytics",
+  icons: {
+    icon: "/favicon.ico",
+  }
 };
 
 export default function RootLayout({
